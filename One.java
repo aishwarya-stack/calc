@@ -28,11 +28,11 @@ public class One {
 	System.out.println(obj1.compareTo(obj2)); 
 	int retResult =  obj1.compareTo(obj2);        
 	if(retResult > 0) {  
-	   System.out.println("dis is greater than dis2");  
+	   System.out.println("length one is greater than length2");  
 	} else if(retResult< 0) {  
-	   System.out.println("dis is less than dis2");  
+	   System.out.println("length one is less than length2");  
 	} else {  
-	   System.out.println("dis is equal to dis2");  
+	   System.out.println("length one is equal to length2");  
 	}  
 	}	
 	
